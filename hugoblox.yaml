@@ -6,3 +6,7 @@ deploy:
 template:
   id: "academic-cv"
   name: "Academic CV"
+security:
+  exec:
+    allow:
+      - '^tailwindcss$'
