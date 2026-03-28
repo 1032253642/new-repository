@@ -1,29 +1,33 @@
-############################
-## HUGO MODULES
+# HUGO MODULES
 ## Install or uninstall themes and plugins here.
-## Docs: https://gohugo.io/hugo-modules/
-############################
-
+## Docs: https://hugo.io/hugo-modules/
+##
+ 
 imports:
   - path: github.com/HugoBlox/kit/modules/integrations/netlify
   - path: github.com/HugoBlox/kit/modules/blox
   - path: github.com/HugoBlox/kit/modules/slides
-
-# Install any Hugo Blox within the `hugo-blox/blox/` folder
+ 
+# Install any Hugo Blox within the `hugo-blox/blob` folder
 mounts:
-  - source: hugo-blox/blox/community
-    target: layouts/_partials/blox/community/
+  - source: hugo-blox/blob/community
+    target: layouts/_partials/blob/community/
     files:
-      - '**.html'
-  - source: hugo-blox/blox/all-access
-    target: layouts/_partials/blox/
+      - '**html'
+  - source: hugo-blox/blob/all-access
+    target: layouts/_partials/blob/
     files:
-      - '**.html'
-  - source: hugo-blox/blox
-    target: assets/dist/community/blox/
+      - '**html'
+  - source: hugo-blox/blob
+    target: assets/dist/community/blob/
     files:
-      - '**.css'
+      - '**css'
   - source: layouts
     target: layouts
   - source: assets
     target: assets
+ 
+page:
+  - path: "{,**}/**"
+    params:
+      author: admin
