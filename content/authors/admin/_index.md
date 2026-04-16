@@ -43,6 +43,31 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget
+
+skills:
+  - name: Technical
+  items:
+    -name:  Python
+     description: ''
+     percent: 70
+     icon: python
+     icon_pack: fab
+    - name: Math
+     description: ''
+     percent: 80
+     icon: chart-line
+     icon_pack: fas
+    - name: Rust
+     description: ''
+     percent: 70
+     icon: rust
+     icon_pack: fab
+  -name: Hobbies
+   color: '#eeac02'
+   color_border: '#f0bf23'
+   items:
+     - name 
+
 social:
   - icon: envelope
     icon_pack: fas
