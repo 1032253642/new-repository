@@ -15,7 +15,7 @@ tags:
 categories:
   - блог
 draft: false
-featuredImage: "featured.png"
+featuredImage: "flag.png"
 ---
 
 ## Учебные достижения
