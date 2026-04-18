@@ -51,31 +51,31 @@ experience:
        text: Узнать о направлении
        url: https://eng.rudn.ru/ffnen
        icon: hero/arrow-right
-  - role: Участник выставок об образовании в РУДН
-    org: РУДН
-    start: 2025-09-01
-    summary: |
-      Рассказывала о направлении прикладной информатике в РУДН на выставке на ВДХ, на ночи абитуриентов РУДН. Проводила мастер-классы по нейронным сетям.
-    button:
-      text: Подробнее о кружках
-      url: https://rudn.ru/student-life/clubs
-      icon: hero/arrow-right
+   - role: Участник выставок об образовании в РУДН
+     org: РУДН
+     start: 2025-09-01
+     summary: |
+       Рассказывала о направлении прикладной информатике в РУДН на выставке на ВДХ, на ночи абитуриентов РУДН. Проводила мастер-классы по нейронным сетям.
+     button:
+       text: Подробнее о кружках
+       url: https://rudn.ru/student-life/clubs
+       icon: hero/arrow-right
  
 skills:
   - name: Технические навыки
     items:
       - label: Python
         level: 3
-    - label: C++
+      - label: C++
         level: 3
-    - label: SageMath
+      - label: SageMath
         level: 2
   - name: Языки
     items:
       - label: Русский
         level: 5
       - label: Английский
-        level: 3
+        level: 4
       - label: Другие языки
         level: 2
 
@@ -85,7 +85,15 @@ languages:
     level: 5
     label: Родной
   - name: Английский
-    level: 3
-    label: Средний
+    level: 4
+    label: Продвинутый
  
-awards: []
+awards:
+  - title: "Введение в Linux"
+    awarder: Stepik (Институт биоинформатики)
+    date: "2026-03-20"
+    summary: |
+      Успешно завершила курс для начинающих пользователей Linux. Изучил установку системы, базовую работу в графическом интерфейсе и командной строке (терминале), основы удалённой работы на сервере и начальные навыки написания bash-скриптов.
+    url: "https://freemage.host/i/pV2GUF9"
+    icon: hero/computer-desktop
+
