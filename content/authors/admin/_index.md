@@ -69,9 +69,9 @@ skills:
      - name 
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:1032253642@rudn.ru'
+  - icon: etsy
+    icon_pack: fab
+    link:https://elibrary.ru/defaultx.aspg
   - icon: github
     icon_pack: fab
     link: https://github.com/1032253642
