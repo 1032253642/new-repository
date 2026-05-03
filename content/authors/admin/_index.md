@@ -69,31 +69,30 @@ skills:
      - name 
 
 social:
-  - icon: etsy
-    icon_pack: fab
+  - icon: "custom/elibrary.svg"
+    icon_pack: "custom"
     link: https://www.elibrary.ru/defaultx.asp
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: "custom/googlescholar.svg"
+    icon_pack: "custom"
     link: https://scholar.google.com/citations?user=cmlMuQoAAAAJ&hl=ru
-  - icon: orcid
-    icon_pack: fab
+  - icon: "custom/orcid.svg"
+    icon_pack: "custom"
     link: https://orcid.org/0009-0003-8124-9907
-  - icon: mendeley
-    icon_pack: fab
+  - icon: "custom/mendeley.svg"
+    icon_pack: "custom"
     link: https://www.mendeley.com/search/
-  - icon: researchgate
-    icon_pack: fab
+  - icon: "custom/researchgate.svg"
+    icon_pack: "custom"
     link: https://www.researchgate.net/profile/Nikita-Andryushin
-  - icon: gg
-    icon_pack: fab
+  - icon: "custom/academia.svg"
+    icon_pack: "custom"
     link: https://independent.academia.edu/DRNIKIY
-  - icon: dex
-    icon_pack: fab
+  - icon: "custom/arxiv.svg"
+    icon_pack: "custom"
     link: https://arxiv.org/user/
-  - icon: github
-    icon_pack: fab
+  - icon: "custom/github.svg"
+    icon_pack: "custom"
     link: https://github.com/DrNikiyProgrammingAccount
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
