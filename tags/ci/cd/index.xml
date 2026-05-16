@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI/CD | </title>
+    <link>http://localhost:1313/tags/ci/cd/</link>
+      <atom:link href="http://localhost:1313/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CI/CD</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>CI/CD</title>
+      <link>http://localhost:1313/tags/ci/cd/</link>
+    </image>
+    
+    <item>
+      <title>Что такое CI/CD</title>
+      <link>http://localhost:1313/blog/ci-cd/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/ci-cd/</guid>
+      <description>&lt;h2 id=&#34;что-такое-cicd&#34;&gt;Что такое CI/CD?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;CI/CD&lt;/strong&gt; — это методология разработки программного обеспечения, которая объединяет практики непрерывной интеграции (Continuous Integration) и непрерывного развертывания (Continuous Delivery/Deployment).&lt;/p&gt;
+&lt;h3 id=&#34;continuous-integration-ci&#34;&gt;Continuous Integration (CI)&lt;/h3&gt;
+&lt;p&gt;Это практика, при которой разработчики часто сливают свои изменения в центральный репозиторий. После каждого слияния автоматически запускаются сборка и тесты.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Преимущества CI:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Раннее обнаружение ошибок&lt;/li&gt;
+&lt;li&gt;Уменьшение сложности слияния кода&lt;/li&gt;
+&lt;li&gt;Быстрая обратная связь&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;continuous-delivery-cd&#34;&gt;Continuous Delivery (CD)&lt;/h3&gt;
+&lt;p&gt;Это расширение CI, при котором код автоматически готов к развертыванию в production.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Преимущества CD:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Автоматизированное развертывание&lt;/li&gt;
+&lt;li&gt;Минимизация ручных операций&lt;/li&gt;
+&lt;li&gt;Быстрая доставка новых функций&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;примеры-инструментов-cicd&#34;&gt;Примеры инструментов CI/CD&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab CI/CD&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;как-это-работает-в-моём-проекте&#34;&gt;Как это работает в моём проекте&lt;/h2&gt;
+&lt;p&gt;Я использую &lt;strong&gt;GitHub Pages&lt;/strong&gt; для хостинга сайта. GitHub Actions автоматически собирает сайт с помощью Hugo и публикует его после каждого пуша в репозиторий.&lt;/p&gt;
+&lt;p&gt;Это классический пример CI/CD:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Я пушаю изменения в репозиторий&lt;/li&gt;
+&lt;li&gt;GitHub Actions запускает сборку&lt;/li&gt;
+&lt;li&gt;Сайт обновляется на GitHub Pages&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

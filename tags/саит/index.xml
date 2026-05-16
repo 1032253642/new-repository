@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Сайт | </title>
+    <link>https://example.com/tags/%D1%81%D0%B0%D0%B8%D1%82/</link>
+      <atom:link href="https://example.com/tags/%D1%81%D0%B0%D0%B8%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <description>Сайт</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Сайт</title>
+      <link>https://example.com/tags/%D1%81%D0%B0%D0%B8%D1%82/</link>
+    </image>
+    
+    <item>
+      <title>Четвёртый этап проекта: настройка научных ссылок на сайте</title>
+      <link>https://example.com/blog/summary3/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/summary3/</guid>
+      <description>&lt;h2 id=&#34;что-было-сделано-за-неделю&#34;&gt;Что было сделано за неделю&lt;/h2&gt;
+&lt;h3 id=&#34;регистрация-на-ресурсах&#34;&gt;Регистрация на ресурсах&lt;/h3&gt;
+&lt;p&gt;Согласно заданию четвёртого этапа, зарегистрировалась на всех нужных научных и библиометрических платформах:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eLibrary.ru&lt;/strong&gt; — российская научная электронная библиотека&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt; — профиль для отслеживания цитирований&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ORCID&lt;/strong&gt; — получила уникальный идентификатор &lt;code&gt;0009-0003-8124-9907&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mendeley&lt;/strong&gt; — менеджер библиографии&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ResearchGate&lt;/strong&gt; — социальная сеть для учёных&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Academia.edu&lt;/strong&gt; — платформа для публикации научных работ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;arXiv.org&lt;/strong&gt; — архив препринтов&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — для хранения кода проекта&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;добавление-ссылок-на-сайт&#34;&gt;Добавление ссылок на сайт&lt;/h3&gt;
+&lt;p&gt;После регистрации нужно было разместить ссылки на эти ресурсы в файле &lt;code&gt;_index.md&lt;/code&gt; сайта, сделанного на Hugo.&lt;/p&gt;
+&lt;p&gt;Столкнулась с неожиданной проблемой: &lt;strong&gt;иконки не отображались&lt;/strong&gt; на локальном сервере. Оказалось, что дело в отступах в YAML-разметке и в том, что нужные иконки нужно положить в папку &lt;code&gt;assets/media/icons/custom/&lt;/code&gt; в формате SVG, а в файле указать &lt;code&gt;icon_pack: &amp;quot;custom&amp;quot;&lt;/code&gt; и путь к файлу.&lt;/p&gt;
+&lt;h3 id=&#34;итог&#34;&gt;Итог&lt;/h3&gt;
+&lt;p&gt;Ссылки успешно добавлены, иконки отображаются, сайт работает корректно. Перехожу к следующему этапу проекта.&lt;/p&gt;
+&lt;h2 id=&#34;отдых-на-природе&#34;&gt;Отдых на природе&lt;/h2&gt;
+&lt;p&gt;После нескольких дней напряжённой работы над проектом и учёбой я решила устроить небольшой перерыв. Вышла погулять в лес сразу после дождя.&lt;/p&gt;
+&lt;p&gt;Воздух был кристально чистым, пахло мокрой корой, прелыми листьями и свежестью. Солнце только начинало пробиваться сквозь тучи, и его лучи красиво подсвечивали капли на ветках. Тишина стояла невероятная — только редкие капли срывались с листьев и мягко шлёпались в лужи. Ни городского шума, ни спешки.&lt;/p&gt;
+&lt;p&gt;Я просто бродила по мокрым тропинкам, вдыхала этот лесной аромат и ни о чём не думала. Это было как маленькое лекарство от усталости. Иногда так важно остановиться и просто побыть в тишине. 🍃&lt;/p&gt;
+&lt;h2 id=&#34;планы&#34;&gt;Планы&lt;/h2&gt;
+&lt;p&gt;На следующей неделе — оформление отчёта по проекту и подготовка презентации. Также нужно написать ещё один пост на выбор по теме: оформление отчёта, создание презентаций или работа с библиографией.&lt;/p&gt;
+&lt;p&gt;Неделя была полезной — научилась работать с Hugo, YAML и кастомными иконками. А прогулка в лесу помогла восстановить силы для новых задач.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
