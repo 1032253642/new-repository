@@ -25,7 +25,30 @@ links:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/1032253642
- 
+    label: GitHub
+  # Научные и библиометрические ресурсы (этап 4)
+  - icon: custom/elibrary
+    url: https://www.elibrary.ru/defaultx.asp
+    label: eLibrary
+  - icon: custom/googlescholar
+    url: https://scholar.google.com/citations?user=cmlMuQoAAAAJ&hl=ru
+    label: Google Scholar
+  - icon: custom/orcid
+    url: https://orcid.org/0009-0003-8124-9907
+    label: ORCID
+  - icon: custom/mendeley
+    url: https://www.mendeley.com/search/
+    label: Mendeley
+  - icon: custom/researchgate
+    url: https://www.researchgate.net/profile/Nikita-Andryushin
+    label: ResearchGate
+  - icon: custom/academia
+    url: https://independent.academia.edu/DRNIKIY
+    label: Academia.edu
+  - icon: custom/arxiv
+    url: https://arxiv.org/user/
+    label: arXiv
+
 interests:
   - Программирование
   - Операционные системы
