@@ -40,7 +40,7 @@ jobs:
           node-version: '22'
 
       - name: Install Tailwind CSS
-        run: npm install -D tailwindcss @tailwindcss/cli
+        run: npm install -D tailwindcss @tailwindcss/cli @tailwindcss/typography
 
       - name: Setup Pages
         id: pages
