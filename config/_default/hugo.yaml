@@ -63,3 +63,8 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+security:
+  exec:
+    allow:
+      - '^tailwindcss$'
