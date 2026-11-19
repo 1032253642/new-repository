@@ -951,6 +951,9 @@ podman run --memory=100m --name stress-test docker.io/progrium/stress --vm 1 --v
 
 ![Вопрос 15](image/image130.png)
 
+**Получен сертификат о прохождении курса на платформе Selectel.**
+
+![Сертификат](image/image131.png)
 ---
 
 ## Итоги
