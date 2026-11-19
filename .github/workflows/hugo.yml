@@ -31,8 +31,16 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.123.6'
+          hugo-version: '0.170.1'
           extended: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Tailwind CSS
+        run: npm install -D tailwindcss @tailwindcss/cli @tailwindcss/typography
 
       - name: Setup Pages
         id: pages
@@ -42,6 +50,7 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
         run: |
+          export PATH="$PWD/node_modules/.bin:$PATH"
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
