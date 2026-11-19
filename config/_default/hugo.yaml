@@ -64,4 +64,4 @@ security:
   exec:
     allow:
       - '^tailwindcss$'
-
+      - '^go$'
