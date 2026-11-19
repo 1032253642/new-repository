@@ -13,6 +13,7 @@ tags:
 categories:
   - учёба
 draft: false
+featured:  true
 featuredImage: "featured.png"
 ---
 
