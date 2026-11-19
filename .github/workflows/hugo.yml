@@ -50,6 +50,7 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
         run: |
+          export PATH="$PWD/node_modules/.bin:$PATH"
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
