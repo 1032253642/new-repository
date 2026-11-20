@@ -107,7 +107,7 @@ class="hb-card group"href="../guide/formatting" &gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;My Page&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;toc&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;false&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nn"&gt;---&lt;/span&gt;&lt;span class="w"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Прохождение внешнего курса. Часть 1</title><link>https://1032253642.github.io/new-repository/projects/selectel-linux-part1/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://1032253642.github.io/new-repository/projects/selectel-linux-part1/</guid><description>&lt;details&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Selectel. Прохождение внешнего курса. Часть 1</title><link>https://1032253642.github.io/new-repository/projects/selectel-linux-part1/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://1032253642.github.io/new-repository/projects/selectel-linux-part1/</guid><description>&lt;details&gt;
 &lt;summary&gt;📖 Оглавление&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1012,7 +1012,7 @@ loading="lazy" data-zoomable /&gt;&lt;/div&gt;
 &lt;li&gt;работа с архивами (&lt;code&gt;tar&lt;/code&gt;, &lt;code&gt;gzip&lt;/code&gt;) и передача данных (&lt;code&gt;scp&lt;/code&gt;);&lt;/li&gt;
 &lt;li&gt;основы автоматизации с помощью Bash-скриптов и cron.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Все тесты и интерактивные задания Части 1 пройдены. Цель работы достигнута.&lt;/p&gt;</description></item><item><title>Прохождение внешнего курса. Часть 3: Сети, логи и контейнеризация</title><link>https://1032253642.github.io/new-repository/projects/selectel-linux-part3/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://1032253642.github.io/new-repository/projects/selectel-linux-part3/</guid><description>&lt;details&gt;
+&lt;p&gt;Все тесты и интерактивные задания Части 1 пройдены. Цель работы достигнута.&lt;/p&gt;</description></item><item><title>Selectel. Прохождение внешнего курса. Часть 3: Сети, логи и контейнеризация</title><link>https://1032253642.github.io/new-repository/projects/selectel-linux-part3/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://1032253642.github.io/new-repository/projects/selectel-linux-part3/</guid><description>&lt;details&gt;
 &lt;summary&gt;📖 Оглавление&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -3101,7 +3101,7 @@ loading="lazy" data-zoomable /&gt;&lt;/div&gt;
 &lt;li&gt;контейнеризация с помощью Podman (запуск контейнеров, управление ресурсами);&lt;/li&gt;
 &lt;li&gt;обеспечение безопасности сетевого взаимодействия (UFW, fail2ban).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Все тесты и интерактивные задания Части 3 пройдены. Цель работы достигнута.&lt;/p&gt;</description></item><item><title>Прохождение внешнего курса. Часть 2: Работа с файлами и управление доступами</title><link>https://1032253642.github.io/new-repository/projects/selectel-linux-part2/</link><pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate><guid>https://1032253642.github.io/new-repository/projects/selectel-linux-part2/</guid><description>&lt;details&gt;
+&lt;p&gt;Все тесты и интерактивные задания Части 3 пройдены. Цель работы достигнута.&lt;/p&gt;</description></item><item><title>Selectel. Прохождение внешнего курса. Часть 2: Работа с файлами и управление доступами</title><link>https://1032253642.github.io/new-repository/projects/selectel-linux-part2/</link><pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate><guid>https://1032253642.github.io/new-repository/projects/selectel-linux-part2/</guid><description>&lt;details&gt;
 &lt;summary&gt;📖 Оглавление&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -8913,7 +8913,7 @@ Powered by Hugo Blox Kit - https://github.com/HugoBlox/kit
 format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
 &lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
 &lt;p&gt;Demo:&lt;/p&gt;
-&lt;div id="chart-369875241" class="chart"&gt;&lt;/div&gt;
+&lt;div id="chart-976185234" class="chart"&gt;&lt;/div&gt;
 &lt;script&gt;
 (function() {
 async function fetchChartJSON() {
@@ -8929,7 +8929,7 @@ return;
 clearInterval( a );
 fetchChartJSON().then(chart =&gt; {
 console.debug('Plotting chart...')
-window.Plotly.newPlot('chart-369875241', chart.data, chart.layout, {responsive: true});
+window.Plotly.newPlot('chart-976185234', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
