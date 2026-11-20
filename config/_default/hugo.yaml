@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: "https://1032253642.github.io/new-repository/"
 
 ############################
 ## LANGUAGE
@@ -33,7 +33,6 @@ cascade:
 
 build:
   writeStats: true
-  noJSConfigInAssets: true
 enableGitInfo: false
 summaryLength: 30
 pagination:
